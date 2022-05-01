@@ -47,6 +47,16 @@ git status
 7. git push -u origin master : github에 push(첫 push에만 -u option 사용)
 ```
 git push -u origin master
+
+오브젝트 나열하는 중: 9, 완료.
+오브젝트 개수 세는 중: 100% (9/9), 완료.
+Delta compression using up to 10 threads
+오브젝트 압축하는 중: 100% (4/4), 완료.
+오브젝트 쓰는 중: 100% (5/5), 327.62 KiB | 29.78 MiB/s, 완료.
+Total 5 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/ai-castlemoney/github_test.git
+   28b22c4..2d1c20c  master -> master
 ```
 - 이후 push는 git push 만 하면 됨.
 
