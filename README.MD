@@ -44,7 +44,13 @@ git status
 	새 파일:       ex.txt
 ```
 
-7. git push origin master : github에 push
+7. git push -u origin master : github에 push(첫 push에만 -u option 사용)
 ```
-git push
+git push -u origin master
 ```
+- 이후 push는 git push 만 하면 됨.
+
+- 팀원 중 한명이 수정사항 push를 하면 팀원에게 pull 하고 push를 하도록 공지한다.
+- 다른 팀원은 git pull 하여 github과 local repository를 동일한 상태로 만든 후
+- 본인의 변경사항을 push한다.
+
