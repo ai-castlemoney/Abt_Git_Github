@@ -1,10 +1,10 @@
 ## Github에 새로운 Repository 생성 후 로컬과 연결하는 방법
 
 1. Github에서 new repository 생성
-![new repository create](https://github.com/ai-castlemoney/github_test/blob/master/images/clone_github_test.png)
-![new repository create1]()
-![new repository create1]()
-![new repository create1]()
+![new repository create](https://github.com/ai-castlemoney/github_test/blob/master/repo_github/images/new_repository.png)
+![new repository create1](https://github.com/ai-castlemoney/github_test/blob/master/repo_github/images/new_repository_1.png)
+![new repository create1](https://github.com/ai-castlemoney/github_test/blob/master/repo_github/images/new_repository_2.png)
+![new repository create1](https://github.com/ai-castlemoney/github_test/blob/master/repo_github/images/new_repository_3.png)
 
 2. local command line에서 위에서 생성한 repository와 같은 디렉토리(폴더) 생성
 ```
